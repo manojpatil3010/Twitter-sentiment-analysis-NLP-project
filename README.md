@@ -18,5 +18,6 @@ And here this Project helps to identify hate tweets and good tweets/ non hate tw
 8. Prediction and Evaluation
 
 
-# Data set: https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
+# Data set:
+https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
 
